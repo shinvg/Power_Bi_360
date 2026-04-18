@@ -1,5 +1,7 @@
 # 📊 Power BI Sales & Business Performance Dashboard
 
+[![Download Dashboard](https://img.shields.io/badge/⬇️%20Download-PowerBI%20Dashboard-blue?style=for-the-badge&logo=powerbi)](https://drive.google.com/file/d/12nU2VmY8pbgLtKm9blH-eJAJEYLp-Sb0/view?usp=sharing)
+
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Data-Excel-green?style=for-the-badge&logo=microsoft-excel)
 ![DAX](https://img.shields.io/badge/Language-DAX-blue?style=for-the-badge)
@@ -10,7 +12,7 @@
 
 ---
 
-## 📌 Project Summary 
+## 📌 Project Summary (ATS Optimized)
 
 Developed an **end-to-end Business Intelligence dashboard in Power BI** to analyze and monitor **Sales, Finance, Supply Chain, and Marketing performance**.
 
@@ -18,7 +20,7 @@ Applied **data modeling, ETL processes, and DAX calculations** to transform raw 
 
 ---
 
-## 🎯 Key Skills & Keywords 
+## 🎯 Key Skills & Keywords (For Recruiters / ATS)
 
 **Power BI | Data Analysis | Business Intelligence | Data Visualization | DAX | Power Query | ETL | Data Modeling | Dashboard Development | KPI Tracking | Sales Analytics | Financial Analysis | Supply Chain Analytics | Marketing Analytics | Excel | Reporting | Insights Generation**
 
@@ -38,34 +40,24 @@ Applied **data modeling, ETL processes, and DAX calculations** to transform raw 
 ## 📂 Dashboard Views
 
 ### 📈 Sales Analytics Dashboard
-
 - Revenue Trends & Growth Analysis  
 - Top Products & Customer Segmentation  
 - Regional Sales Performance  
 - Year-over-Year (YoY) Analysis  
 
----
-
 ### 💰 Financial Analysis Dashboard
-
 - Profit & Loss (P&L) Overview  
 - Cost vs Revenue Analysis  
 - Margin & Profitability Metrics  
 - Financial KPI Tracking  
 
----
-
 ### 🚚 Supply Chain Analytics Dashboard
-
 - Inventory Management & Turnover  
 - Order Fulfillment Tracking  
 - Supplier Performance Analysis  
 - Logistics & Delivery Insights  
 
----
-
 ### 📣 Marketing Analytics Dashboard
-
 - Campaign Performance Analysis  
 - Customer Segmentation  
 - Return on Investment (ROI)  
@@ -119,12 +111,6 @@ Applied **data modeling, ETL processes, and DAX calculations** to transform raw 
 
 - `PowerBI_Dashboard.pbix`  
 - `Dataset (Excel/CSV)` *(if applicable)*  
-
----
-
-## 🔗 Download / Live Demo
-
-*(Add your Google Drive / GitHub / Portfolio link here)*  
 
 ---
 
