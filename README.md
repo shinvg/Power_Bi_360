@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Project Summary (ATS Optimized)
+## 📌 Project Summary
 
 Developed an **end-to-end Business Intelligence dashboard in Power BI** to analyze and monitor **Sales, Finance, Supply Chain, and Marketing performance**.
 
@@ -20,13 +20,13 @@ Applied **data modeling, ETL processes, and DAX calculations** to transform raw 
 
 ---
 
-## 🎯 Key Skills & Keywords (For Recruiters / ATS)
+## 🎯 Key Skills & Keywords 
 
 **Power BI | Data Analysis | Business Intelligence | Data Visualization | DAX | Power Query | ETL | Data Modeling | Dashboard Development | KPI Tracking | Sales Analytics | Financial Analysis | Supply Chain Analytics | Marketing Analytics | Excel | Reporting | Insights Generation**
 
 ---
 
-## 🚀 Project Highlights (Impact-Focused)
+## 🚀 Project Highlights 
 
 - Designed **interactive dashboards** to track business KPIs across 4 functional domains  
 - Performed **data cleaning and transformation using Power Query (ETL process)**  
